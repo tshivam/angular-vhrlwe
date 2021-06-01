@@ -1,3 +1,4 @@
-# angular-vhrlwe
+# Mining Rig Store
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-vhrlwe)
+An e-commerce website to purchase GPU mining rigs in India
+
