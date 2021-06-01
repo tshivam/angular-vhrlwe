@@ -10,6 +10,13 @@
     </a>
   </h3>
 
+  <img
+    [src]="product.img"
+    alt="Rig"
+    class="responsive"
+    [routerLink]="['/products', product.id]"
+  />
+
   <p *ngIf="product.description">
     Description: {{ product.description }}
   </p>
