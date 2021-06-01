@@ -8,24 +8,23 @@ export interface Product {
 export const products = [
   {
     id: 1,
-    name: 'Phone XL',
-    price: 799,
-    description: 'A large phone with one of the best screens'
+    name: '10 GPU Rig',
+    price: 500000,
+    description: 'A GPU mining rig consisting of 10 GTX 1660 Super'
   },
   {
     id: 2,
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras'
+    name: '6 GPU Rig',
+    price: 320000,
+    description: 'A GPU mining rig consisting of 6 GTX 1660 Super'
   },
   {
     id: 3,
-    name: 'Phone Standard',
-    price: 299,
+    name: '4 GPU Rig',
+    price: 250000,
     description: ''
   }
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
